@@ -1,0 +1,21 @@
+{
+  "name": "languagetool",
+  "version": "1.0.0",
+  "description": "A tool for detecting a language for a input sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "language",
+    "detector"
+  ],
+  "author": "Patrick Pavliuchik",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^5.0.0",
+    "franc-cli": "^7.0.0",
+    "langs": "^2.0.0"
+  }
+}
